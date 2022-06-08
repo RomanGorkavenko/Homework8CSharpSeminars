@@ -49,7 +49,7 @@ void PrintArray(int[,,] array)
         {
             for (int k = 0; k < array.GetLength(2); k++)
             {
-                Console.WriteLine($"{array[i, j, k]}[{i},{j},{k}] ");
+                Console.WriteLine($"Элемент = {array[i, j, k]}; индекс = [{i},{j},{k}] ");
             }
         }
     }

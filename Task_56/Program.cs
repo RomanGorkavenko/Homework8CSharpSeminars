@@ -5,6 +5,7 @@ int[] sumElementsArray = SumElementsRow(randomArray);
 PrintOneDimensionalArray(sumElementsArray);
 Console.WriteLine();
 PrintResult(sumElementsArray, randomArray);
+Console.WriteLine();
 
 
 int[,] GetFillArray(int m, int n)

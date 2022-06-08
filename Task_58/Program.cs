@@ -5,7 +5,7 @@
 //     {4,5,6},
 //     {7,8,9},
 // };
-int[,] randomArray1 = GetFillArray(6, 4);
+int[,] randomArray1 = GetFillArray(4, 4);
 Console.WriteLine("Матрица №1:");
 PrintArray(randomArray1);
 Console.WriteLine();
@@ -16,7 +16,7 @@ Console.WriteLine();
 //     {6,5,4},
 //     {3,2,1},
 // };
-int[,] randomArray2 = GetFillArray(3, 2);
+int[,] randomArray2 = GetFillArray(4, 4);
 Console.WriteLine("Матрица №2:");
 PrintArray(randomArray2);
 Console.WriteLine();
