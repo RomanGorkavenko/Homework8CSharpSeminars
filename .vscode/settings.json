@@ -1,0 +1,4 @@
+{
+    "csharp.inlayHints.parameters.enabled": false,
+    "csharp.inlayHints.parameters.forIndexerParameters": false
+}
